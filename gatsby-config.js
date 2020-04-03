@@ -3,9 +3,9 @@ module.exports = {
     title: `Healthy Wealthy Me`,
     author: `healthywealthyme.com`,
     description: `a Place for Health, Wealth and Spiritual advice and tips`,
-    siteUrl: WORDPRESS_URL,
+    siteUrl: 'https://word-press.netlify.com/',
     social: {
-      twitter: TWITTER_SITE,
+      twitter: 'healthy50434815',
     },
     postPrefix : '/blog',
     pagePrefix: '',
@@ -29,7 +29,7 @@ module.exports = {
       resolve: 'gatsby-source-wordpress',
       options: {
         // The base url to your WP site.
-        baseUrl: BASE_URL,
+        baseUrl: 'https://www.gentrymediaproductions.com',
         // baseUrl: 'data.sukumu.com',
         // baseUrl: 'wpgatsby.wtf',
         // WP.com sites set to true, WP.org set to false
