@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-wordpress-netlify-starter",
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "name": "wordpress-site",
+  "description": "powered by Gatsby and Markdown",
   "version": "2.0.0",
-  "author": "Justin W Hall",
+  "author": "HealthyWealtyMe",
   "keywords": [
     "gatsby"
   ],
