@@ -37,7 +37,7 @@ const Layout = (props) => {
             color: '#666',
           }}
           >
-            With ❤ for Netlify
+           ❤ for HealthyWealthyMe.com
           </div>
         </>
       )
@@ -70,7 +70,7 @@ const Layout = (props) => {
           color: '#666',
         }}
         >
-          With ❤ for Netlify
+          ❤ for HealthyWealthyMe.com
         </div>
         </>
       )
@@ -83,10 +83,10 @@ const Layout = (props) => {
           maxWidth: rhythm(23),
           padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
         }}
-      >
+HealthyWealthyMe      >
         <iframe
-          title="Star on GitHub"
-          src="https://ghbtns.com/github-btn.html?user=justinwhall&repo=gatsby-wordpress-netlify-starter&type=star&count=true&size=large"
+          title="it's healthy on HealthyWealthyMe"
+          src="https://github.com/Sukumu/gatsby-wordpress-netlify-starter/"
           frameBorder="0"
           scrolling="0"
           width="158px"
@@ -98,21 +98,21 @@ const Layout = (props) => {
           }}
           ></iframe>
           <a
-          href="https://justinwhall.com/headless-wordpress-gatsby-netlify-continous-deployment/"
+          href="HealthyWealthyMe"
           style={{
             position: 'absolute',
             left: 150,
             top: 10,
           }}
-        >Get Started</a>
+        >Get Healthy, Wealthy and Happy</a>
         <header>{header}</header>
         <main>{children}</main>
         <footer>
-          © {new Date().getFullYear()}, Built with
+          © {new Date().getFullYear()}, ❤ for HealthyWealthyMe.com
           {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+          <a href="https://www.healthywealthyme.com/">HealthyWealthyMe</a>
           {` `}
-          | Built by <a href="https://justinwhall.com">Justin W. Hall</a>
+          | Built by <a href="https://sukumu.com">Sukumu</a>
         </footer>
       </div>
     )
