@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `WordPress Gatsby Starter`,
-    author: `Justin W Hall`,
-    description: `A Gatsby WordPress Starter with special love for Netlify`,
+    title: `Healthy Wealthy Me`,
+    author: `healthywealthyme.com`,
+    description: `a Place for Health, Wealth and Spiritual advice and tips`,
     siteUrl: `https://word-press.netlify.com/`,
     social: {
-      twitter: `healthywealthyme`,
+      twitter: `healthy50434815`,
     },
     postPrefix : '/blog',
     pagePrefix: '',
@@ -30,7 +30,7 @@ module.exports = {
       options: {
         // The base url to your WP site.
         baseUrl: 'https://www.gentrymediaproductions.com',
-        // baseUrl: 'data.justinwhall.com',
+        // baseUrl: 'data.sukumu.com',
         // baseUrl: 'wpgatsby.wtf',
         // WP.com sites set to true, WP.org set to false
         hostingWPCOM: false,
