@@ -1,108 +1,24 @@
 ---
-title: New Beginnings
-date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+title: Smoothie Health
+date: "2020-03-28T22:40:32.169Z"
+description: Love heathy drinks?
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+A smoothie is a thick and creamy beverage made from pureed raw fruit, vegetables, and sometimes dairy products, typically using a blender Smoothies may be made using other ingredients, such as water, crushed ice, fruit juice, sweeteners, whey powder, plant milk, nuts, nut butter, seeds, tea, chocolate, herbal supplements, or nutritional supplements. A smoothie containing dairy products is similar to a milkshake, though the latter typically contains less fruit and often uses ice cream or frozen yogurt.
 
-## On deer horse aboard tritely yikes and much
+## Composition
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+ As products typically using raw fruits or vegetables, smoothies include dietary fiber and so are thicker than fruit juice, often with a consistency similar to a milkshake. [Composition](https://en.wikipedia.org/wiki/Smoothie) Smoothies, particularly "green smoothies" that include vegetables, may be marketed to health-conscious people for being healthier than milkshakes. 
+ 
+The healthfulness of a smoothie depends on its ingredients and their proportions. Many smoothies include large or multiple servings of fruits and vegetables, which are recommended in a healthy diet and intended to be a meal replacement. However, fruit juice containing high amounts of sugar can increase caloric intake and promote weight gain. Similarly, ingredients such as protein powders, sweeteners, or ice cream are often used in smoothie recipes, some of which contribute mostly to flavor and further caloric intake.
 
-- This however showed weasel
-- Well uncritical so misled
-  - this is very interesting
-- Goodness much until that fluid owl
+### Green Smoothie
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rethoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
+A green smoothie typically consists of 40–50% green vegetables, usually raw green leafy vegetables, such as spinach, kale, swiss chard, collard greens, celery, parsley, or broccoli, with the remaining ingredients being mostly or entirely fruit. Wheatgrass and spirulina are also used as healthful ingredients. Most green leafy vegetables have a bitter flavor when served raw, but this can be ameliorated by choosing certain less-bitter vegetables or combining with certain fruit. Some blender manufacturers now specifically target their products towards making green smoothies and provide a booklet of recipes for them. If the fruit ingredients and the green vegetable ingredients are both juiced ahead of time, the mixed juice doesn't even have to be blended like a smoothie, i.e. a green juice.
 
-### Overlaid the jeepers uselessly much excluding
+### Around the world
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
+Many different smoothies are part of Indian, Mediterranean, and Middle Eastern cuisine. Fruit sharbat sometimes include yogurt and honey, too. In India, the lassi is a smoothie or milkshake comprising crushed ice, yogurt, sometimes sugar, and often mango; in the south, pineapple smoothies made with crushed ice, sugar and no yogurt are more popular. 
+Health food stores on the West Coast of the United States began selling smoothies in the 1930s associated with invention of the electric blender. The actual term "smoothie" was being used in recipes and trademarks by the mid-1980s.
 
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
 
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-### According a funnily until pre-set or arrogant well cheerful
-
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
-
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
-
-When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rethoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.
-
-> The copy warned the Little Blind Text, that where it came from it would have
-> been rewritten a thousand times and everything that was left from its origin
-> would be the word "and" and the Little Blind Text should turn around and
-> return to its own, safe country.
-
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
-
-#### Silent delightfully including because before one up barring chameleon
-
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.
-
-Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
-
-##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
-
-She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rethoric question ran over her cheek, then she continued her way. On her way she
-met a copy.
-
-###### Slapped cozy a that lightheartedly and far
-
-The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word "and" and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.
