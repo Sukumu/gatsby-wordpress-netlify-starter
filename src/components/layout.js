@@ -37,7 +37,7 @@ const Layout = (props) => {
             color: '#666',
           }}
           >
-           ❤ for HealthyWealthyMe.com
+      HealthyWealthyMe.com
           </div>
         </>
       )
@@ -70,7 +70,7 @@ const Layout = (props) => {
           color: '#666',
         }}
         >
-          ❤ for HealthyWealthyMe.com
+ ❤ HealthyWealthyMe.com
         </div>
         </>
       )
@@ -98,7 +98,7 @@ HealthyWealthyMe      >
           }}
           ></iframe>
           <a
-          href="HealthyWealthyMe"
+          href=TWITTER_SITE
           style={{
             position: 'absolute',
             left: 150,
@@ -108,11 +108,11 @@ HealthyWealthyMe      >
         <header>{header}</header>
         <main>{children}</main>
         <footer>
-          © {new Date().getFullYear()}, ❤ for HealthyWealthyMe.com
+          © {new Date().getFullYear()},
           {` `}
           <a href="https://www.healthywealthyme.com/">HealthyWealthyMe</a>
           {` `}
-          | Built by <a href="https://sukumu.com">Sukumu</a>
+          | Administered by <a href="https://sukumu.com">Sukumu</a>
         </footer>
       </div>
     )
