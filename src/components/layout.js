@@ -86,7 +86,7 @@ const Layout = (props) => {
 HealthyWealthyMe      >
         <iframe
           title="it's healthy on HealthyWealthyMe"
-          src=BASE_URL
+          src='https://www.gentrymediaproductions.com'
           frameBorder="0"
           scrolling="0"
           width="158px"
@@ -98,7 +98,7 @@ HealthyWealthyMe      >
           }}
           ></iframe>
           <a
-          href=TWITTER_SITE
+          href='healthy50434815'
           style={{
             position: 'absolute',
             left: 150,
