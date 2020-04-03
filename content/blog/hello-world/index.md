@@ -1,21 +1,15 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+title: Peach
+date: "2020-03-01T22:12:03.284Z"
 ---
 
-This is my first post on my new fake blog! How exciting!
-
-I'm sure I'll write a lot more interesting things in the future.
-
 Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+[Peach](https://en.wikipedia.org/wiki/Peach).
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+> The Peach is a deciduous tree native to the region of Northwest China between the Tarim Basin and the north slopes of 
+>the Kunlun >Mountains, where it was first domesticated and cultivated. 
+>The peach is classified with the almond in the subgenus Amygdalus, distinguished from the other subgenera by the corrugated seed shell. >Due to their close relatedness, the inside of a peach stone tastes remarkably similar to almond, and peach stones are often used to make >a cheap version of marzipan, known as persipan.
+>Peaches and nectarines are the same species, even though they are regarded commercially as different fruits. 
+>China produced 58% of the world's total peaches and nectarines in 2016.
 
-![Chinese Salty Egg](./salty_egg.jpg)
+![Peach](https://storage.needpix.com/thumbs/peaches-2533200_1280.jpg)
