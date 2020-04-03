@@ -1,5 +1,5 @@
 title: Sleep
-date: "2020-03-06T23:46:37.121Z"
+date: "2020-02-06T23:46:37.121Z"
 ---
 Sleep is an essential component to maintaining health. In children, sleep is also vital for growth and development. Ongoing sleep deprivation has been linked to an increased risk for some chronic health problems. In addition, sleep deprivation has been shown to correlate with both increased susceptibility to illness and slower recovery times from illness. In one study, people with chronic insufficient sleep, set as six hours of sleep a night or less, were found to be four times more likely to catch a cold compared to those who reported sleeping for seven hours or more a night. Due to the role of sleep in regulating metabolism, insufficient sleep may also play a role in weight gain or, conversely, in impeding weight loss. 
 >Age and condition Sleep Needs 
