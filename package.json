@@ -10,7 +10,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git@github.com:justinwhall/gatsby-wordpress-netlify-starter.git"
+    "url": "git@github.com:Sukumu/gatsby-wordpress-netlify-starter.git"
   },
   "scripts": {
     "develop": "DEPLOY_ENV=lbn_published_production gatsby develop",
