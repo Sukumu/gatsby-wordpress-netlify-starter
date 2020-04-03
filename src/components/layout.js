@@ -86,7 +86,7 @@ const Layout = (props) => {
 HealthyWealthyMe      >
         <iframe
           title="it's healthy on HealthyWealthyMe"
-          src="https://github.com/Sukumu/gatsby-wordpress-netlify-starter/"
+          src=BASE_URL
           frameBorder="0"
           scrolling="0"
           width="158px"
@@ -108,11 +108,10 @@ HealthyWealthyMe      >
         <header>{header}</header>
         <main>{children}</main>
         <footer>
-          © {new Date().getFullYear()},
+          {new Date().getFullYear()},
           {` `}
-          <a href="https://www.healthywealthyme.com/">HealthyWealthyMe</a>
+          <a href="https://www.healthywealthyme.com/">HealthyWealthyMe.com</a>
           {` `}
-          | Administered by <a href="https://sukumu.com">Sukumu</a>
         </footer>
       </div>
     )
