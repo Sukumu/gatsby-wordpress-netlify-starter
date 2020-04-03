@@ -38,7 +38,7 @@ function Bio() {
               }}
             />
             <p>
-              Created by <strong>{author}</strong> HealthyWealthyMe,TX <br />
+              Health advice inspired by <strong>{author}</strong>HealthyWealthyMe.com<br />
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
                 HealthyWealthyMe on Twitter
