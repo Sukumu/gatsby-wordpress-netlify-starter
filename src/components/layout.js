@@ -70,7 +70,6 @@ const Layout = (props) => {
           color: '#666',
         }}
         >
- ❤ HealthyWealthyMe.com
         </div>
         </>
       )
@@ -83,9 +82,9 @@ const Layout = (props) => {
           maxWidth: rhythm(23),
           padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
         }}
-HealthyWealthyMe      >
+        >
         <iframe
-          title="it's healthy on HealthyWealthyMe"
+          title="healthy life"
           src='https://www.gentrymediaproductions.com'
           frameBorder="0"
           scrolling="0"
@@ -104,13 +103,13 @@ HealthyWealthyMe      >
             left: 150,
             top: 10,
           }}
-        >Get Healthy, Wealthy and Happy</a>
+        >Healthy ~ Happy</a>
         <header>{header}</header>
         <main>{children}</main>
         <footer>
           {new Date().getFullYear()},
           {` `}
-          <a href="https://www.healthywealthyme.com/">HealthyWealthyMe.com</a>
+          <a href="https://www.healthywealthyme.com/">www.healthywealthyme.com</a>
           {` `}
         </footer>
       </div>
